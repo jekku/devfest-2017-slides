@@ -17,7 +17,7 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #F0F1EB;
+  background-image: url("/images/devfest-bg-repeatable.png");
   background-color: #F0F1EB; }
 
 .reveal {

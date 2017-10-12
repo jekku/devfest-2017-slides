@@ -17,7 +17,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #222;
+  background-image: url("/images/devfest-bg-repeatable.png");
   background-color: #222; }
 
 .reveal {

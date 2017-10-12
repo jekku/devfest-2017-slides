@@ -42,7 +42,7 @@ $selectionColor: #fff;
 // Generates the presentation background, can be overridden
 // to return a background image or gradient
 @mixin bodyBackground() {
-	background: $backgroundColor;
+	background-image: url("/images/devfest-bg-repeatable.png")
 }
 
 /* zocial */
