@@ -3,7 +3,7 @@
  *
  * By Hakim El Hattab, http://hakim.se
  */
-@import url(http://weloveiconfonts.com/api/?family=zocial);
+@import url(https://weloveiconfonts.com/api/?family=zocial);
 /* zocial */
 @import url(../../lib/font/source-sans-pro/source-sans-pro.css);
 [class*="zocial-"]:before {
@@ -17,7 +17,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
  * GLOBAL STYLES
  *********************************************/
 body {
-  background-image: url("/images/devfest-bg-repeatable.png");
+  background-image: url("https://raw.githubusercontent.com/jekku/devfest-2017-slides/master/images/devfest-bg-repeatable.png");
   background-color: #222; }
 
 .reveal {

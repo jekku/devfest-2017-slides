@@ -4,7 +4,7 @@
  *
  * This theme is Copyright (C) 2012-2013 Owen Versteeg, http://owenversteeg.com - it is MIT licensed.
  */
-@import url(http://weloveiconfonts.com/api/?family=zocial);
+@import url(https://weloveiconfonts.com/api/?family=zocial);
 /* zocial */
 [class*="zocial-"]:before {
   font-family: 'zocial', sans-serif;
@@ -17,7 +17,7 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background-image: url("/images/devfest-bg-repeatable.png");
+  background-image: url("https://raw.githubusercontent.com/jekku/devfest-2017-slides/master/images/devfest-bg-repeatable.png");
   background-color: #F0F1EB; }
 
 .reveal {

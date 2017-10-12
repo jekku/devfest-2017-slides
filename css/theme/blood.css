@@ -9,7 +9,7 @@
  * For other themes, change $codeBackground accordingly.
  *
  */
-@import url(http://weloveiconfonts.com/api/?family=zocial);
+@import url(https://weloveiconfonts.com/api/?family=zocial);
 /* zocial */
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:300,700,300italic,700italic);
 [class*="zocial-"]:before {
@@ -20,7 +20,7 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background-image: url("/images/devfest-bg-repeatable.png");
+  background-image: url("https://raw.githubusercontent.com/jekku/devfest-2017-slides/master/images/devfest-bg-repeatable.png");
   background-color: #222; }
 
 .reveal {

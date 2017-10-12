@@ -2,7 +2,7 @@
  * Solarized Light theme for reveal.js.
  * Author: Achim Staebler
  */
-@import url(http://weloveiconfonts.com/api/?family=zocial);
+@import url(https://weloveiconfonts.com/api/?family=zocial);
 /* zocial */
 @import url(../../lib/font/league-gothic/league-gothic.css);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
@@ -21,7 +21,7 @@ html * {
  * GLOBAL STYLES
  *********************************************/
 body {
-  background-image: url("/images/devfest-bg-repeatable.png");
+  background-image: url("https://raw.githubusercontent.com/jekku/devfest-2017-slides/master/images/devfest-bg-repeatable.png");
   background-color: #fdf6e3; }
 
 .reveal {

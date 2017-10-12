@@ -2,7 +2,7 @@
 // overridden by the super-theme
 
 // ICONS
-@import url(http://weloveiconfonts.com/api/?family=zocial);
+@import url(https://weloveiconfonts.com/api/?family=zocial);
 
 // Background of the presentation
 $backgroundColor: #2b2b2b;
@@ -42,7 +42,7 @@ $selectionColor: #fff;
 // Generates the presentation background, can be overridden
 // to return a background image or gradient
 @mixin bodyBackground() {
-	background-image: url("/images/devfest-bg-repeatable.png")
+	background-image: url("https://raw.githubusercontent.com/jekku/devfest-2017-slides/master/images/devfest-bg-repeatable.png");
 }
 
 /* zocial */

@@ -3,7 +3,7 @@
  *
  * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
  */
-@import url(http://weloveiconfonts.com/api/?family=zocial);
+@import url(https://weloveiconfonts.com/api/?family=zocial);
 /* zocial */
 @import url(https://fonts.googleapis.com/css?family=Montserrat:700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic);
@@ -15,7 +15,7 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background-image: url("/images/devfest-bg-repeatable.png");
+  background-image: url("https://raw.githubusercontent.com/jekku/devfest-2017-slides/master/images/devfest-bg-repeatable.png");
   background-color: #111; }
 
 .reveal {
