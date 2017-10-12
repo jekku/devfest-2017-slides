@@ -13,3 +13,18 @@
     margin: 2em 1em;
   }
 }
+
+.social-links {
+  & {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+  }
+
+  > .pair {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}

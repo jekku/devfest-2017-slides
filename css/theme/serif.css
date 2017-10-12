@@ -4,6 +4,12 @@
  *
  * This theme is Copyright (C) 2012-2013 Owen Versteeg, http://owenversteeg.com - it is MIT licensed.
  */
+@import url(http://weloveiconfonts.com/api/?family=zocial);
+/* zocial */
+[class*="zocial-"]:before {
+  font-family: 'zocial', sans-serif;
+  margin-right: 20px; }
+
 .reveal a {
   line-height: 1.3em; }
 
